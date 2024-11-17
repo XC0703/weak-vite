@@ -1,0 +1,13 @@
+{
+  "name": "weak-vite",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "@vue/compiler-sfc": "^3.5.13",
+    "connect": "^3.7.0",
+    "es-module-lexer": "^1.5.4",
+    "esbuild": "^0.24.0",
+    "magic-string": "^0.30.12"
+  }
+}

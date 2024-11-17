@@ -1,0 +1,13 @@
+{
+  "name": "weak-vite",
+  "version": "1.0.0",
+  "license": "MIT",
+  "scripts": {
+    "start": "node ./vite"
+  },
+  "repository": "https://github.com/XC0703/weak-vite.git",
+  "author": "明远湖之鱼",
+  "dependencies": {
+    "vue": "^3.5.13"
+  }
+}
